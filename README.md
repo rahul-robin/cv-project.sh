@@ -4,7 +4,7 @@ Hi! I'm Rahul Uddin Robin. This is my first HTML project.
 
 In this project, I created a simple single-page CV using only HTML. I followed all the given requirements like semantic tags, meta tags, favicon, and a clear layout.
 
-## ✅ What I Learned
+# What I Learned
 
 - How to use **semantic HTML** like `<header>`, `<main>`, `<section>`, and `<footer>`
 - How to add a **meta description** for SEO
@@ -14,10 +14,12 @@ In this project, I created a simple single-page CV using only HTML. I followed a
 
 ---
 
-## 🌍 Live Link
+# Live Link
 https://rahul-robin.github.io/cv-project.sh/
 
-## 📁 Project Files
+# Project Files
+# project URL
+https://github.com/rahul-robin/cv-project.sh
 
 - `index.html`
 - `favicon image` in `icons/` folder
