@@ -15,7 +15,7 @@ In this project, I created a simple single-page CV using only HTML. I followed a
 ---
 
 ## 🌍 Live Link
-
+https://rahul-robin.github.io/cv-project.sh/
 
 ## 📁 Project Files
 
