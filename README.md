@@ -12,7 +12,7 @@ In this project, I created a simple single-page CV using only HTML. I followed a
 - How to link a **favicon**
 - How to organize content clearly (skills, education, experience)
 
----
+https://roadmap.sh/projects/single-page-cv
 
 # Live Link
 https://rahul-robin.github.io/cv-project.sh/
